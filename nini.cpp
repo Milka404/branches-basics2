@@ -8,6 +8,8 @@ main ()
 	for(int i=0; i<b; i++)
 	{
 		 a+=i*b;
+		 a=i+b;
+		 a++;
 	}
 	
 	cout << "Summa "<< a << endl;
