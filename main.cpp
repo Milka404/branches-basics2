@@ -8,5 +8,5 @@ main ()
 	cout<<"vedite  i 2";
 	cin >> a >> b;
 	i = a + b;
-	cout << "Summa"<< i;
+	cout << "Summa "<< i<< endl;
 }
