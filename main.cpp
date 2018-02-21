@@ -5,7 +5,8 @@ using namespace std;
 main ()
 {
 	int a, b , i;
-	cin>> a >> b;
-	i=a+b;
-	cout << i;
+	cout<<"vedite  2 ";
+	cin >> a >> b;
+	i = a + b;
+	cout << "Summa"<< i;
 }
